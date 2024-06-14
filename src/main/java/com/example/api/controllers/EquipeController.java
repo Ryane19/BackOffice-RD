@@ -17,6 +17,7 @@ public class EquipeController {
 
     @Autowired
     public EquipeController(EquipeRepository equipeDAO) {
+
         this.equipeRepository = equipeDAO;
     }
 

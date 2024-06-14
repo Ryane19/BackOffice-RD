@@ -1,4 +1,4 @@
-/**package ModelClassTest;
+package ModelClassTest;
 
 import org.junit.jupiter.api.Test;
 
@@ -15,5 +15,6 @@ public class BilletClassTest {
     }
 
 
+
+
 }
-**/

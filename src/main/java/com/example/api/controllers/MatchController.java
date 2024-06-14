@@ -17,6 +17,7 @@ public class MatchController {
 
     @Autowired
     public MatchController(MatchRepository matchRepository) {
+
         this.matchRepository = matchRepository;
     }
 
