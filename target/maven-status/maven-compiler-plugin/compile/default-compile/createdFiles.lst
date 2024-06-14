@@ -1,0 +1,10 @@
+com/example/api/model/Joueur.class
+com/example/api/controllers/EquipeController.class
+com/example/api/repository/EquipeRepository.class
+com/example/api/repository/MatchRepository.class
+com/example/api/model/Equipe.class
+com/example/api/Application.class
+com/example/api/controllers/MatchController.class
+com/example/api/controllers/JoueurController.class
+com/example/api/repository/JoueurRepository.class
+com/example/api/model/Match.class
